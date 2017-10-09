@@ -20,7 +20,7 @@ A gyakorlatot Bagossy Attila, első féléves PTI MSc. hallgató vezeti. Elérhe
 | 2017. október 2. | B-Spline | [1. HF](https://github.com/kompgraf/course-material/issues/1) |
 | 2017. október 9. | NURBS | [2. HF](https://github.com/kompgraf/course-material/issues/2) |
 | 2017. október 16. | Bézier-felület, NURBS felület | [3. HF](https://github.com/kompgraf/course-material/issues/3) |
-| 2017. november 6. | **1. védés** |
+| 2017. november 6. | **1. védés** | Utolsó effektív commit: **2017. november 5. 08:00** |
 | 2017. november 13. | Subdivision görbék | 4. HF |
 | 2017. november 20. | A Half Edge adatszerkezet | |
 | 2017. november 27. | Primál subdivision felületek | 5. HF |
