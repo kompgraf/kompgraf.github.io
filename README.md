@@ -71,7 +71,7 @@ Az egyetlen - de rendkívül fontos - kritérium, hogy a kérdések **nem** tart
 
 A gyakorlatokon használt notebookok és a házi feladat kiírások elérhetőek a következő címen:
 
-  * http://nbviewer.jupyter.org/github/kompgraf/course-material/tree/master/notebooks/
+  * [Course Material](http://nbviewer.jupyter.org/github/kompgraf/course-material/tree/master/notebooks/)
 
 ### IDE, debugger
 
