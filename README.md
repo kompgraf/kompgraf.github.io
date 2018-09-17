@@ -1,15 +1,15 @@
-#  DE IK Komputergrafika 17/18/2
+#  DE IK Komputergrafika 18/19/1
 
 ## A gyakorlatok helye, ideje
 
 | Időpont                | Terem      |
 |------------------------|------------|
-| **hétfő, 16:00-18:00** | **IK-206** |
-| **kedd, 10:00-12:00**  | **IK-206** |
+| **hétfő, 14:00-16:00** | **IK-103** |
+| **kedd, 16:00-18:00**  | **IK-207** |
 
 ## A gyakorlatvezetőről
 
-Sziasztok! Bagossy Attila vagyok, második féléves PTI MSc. hallgató. Már harmadik alkalommal nyílik lehetőségem Komputergrafika gyakorlatot vezetni, így már viszonylagos rutinnal rendelkezem e tárgyat illetően.
+Sziasztok! Bagossy Attila vagyok, harmadik féléves PTI MSc. hallgató. 
 
 Ha kérdésetek, ötletetek, javaslatotok van, bátran írjatok e-mailt a következő címre:
 
@@ -19,23 +19,43 @@ Amennyiben olyan felvetéssel, problémával rendelkeztek, mely a tárgyat felve
 
 ## A félév tervezett rendje
 
-### Gyakorlati tematika
+### Gyakorlati tematika a hétfői csoport számára
 
-| Időpont               | A gyakorlat témája                       | Megjegyzés |
-|-----------------------|------------------------------------------|------------|
-| 2018. február 5.      | Bevezetés, ismerkedés, Hermite-görbe     | |
-| 2018. február 12.     | Bézier-görbe                             | |
-| 2018. február 19.     | Cardinal Spline, Kochanek-Bartels Spline | |
-| 2018. február 26.     | B-Spline                                 | [1. HF](http://nbviewer.jupyter.org/github/kompgraf/course-material/blob/master/notebooks/hf-01-zart-b-spline/hf-01-zart-b-spline.ipynb) |
-| 2018. március 5.      | NURBS                                    | [2. HF](http://nbviewer.jupyter.org/github/kompgraf/course-material/blob/master/notebooks/hf-02-nurbs/hf-02-nurbs.ipynb) |
-| 2018. március 12.     | Bézier-felület, NURBS felület            | [3. HF](http://nbviewer.jupyter.org/github/kompgraf/course-material/blob/master/notebooks/hf-03-bezier-felulet/hf-03-bezier-felulet.ipynb) |
-| 2018. március 19.     | Subdivision görbék                       | [4. HF](http://nbviewer.jupyter.org/github/kompgraf/course-material/blob/master/notebooks/hf-04-subdivision-gorbe/hf-04-subdivision-gorbe.ipynb) |
-| 2018. március 26./27. | **1. védés** (1-2-3. HF)                 | Utolsó effektív commit: **2018. március 25./26. 08:00** |
-| 2018. április 9.      | A Half Edge adatszerkezet                | |
-| 2018. április 16.     | Primál subdivision felületek             | [5. HF](http://nbviewer.jupyter.org/github/kompgraf/course-material/blob/master/notebooks/hf-05-loop-subdivision/hf-05-loop-subdivision.ipynb) |
-| 2018. április 23.     | Duál subdivision felületek               | |
-| 2018. május 7./8.     | **2. védés/1. pótvédés** (4-5. HF)       | Utolsó effektív commit: **2018. május 6./7. 08:00** |
-| 2018. május 14.       | **2. pótvédés**                          | Vizsgaidőszak |
+| Időpont               | A gyakorlat témája                                | Megjegyzés                                                          |
+|-----------------------|---------------------------------------------------|---------------------------------------------------------------------|
+| 2018. szeptember 10.  | Görbék megadási módja, Lagrange-interpoláció.     |                                                                     |
+| 2018. szeptember 17.  | Hermite-ív, Hermite Spline, Hatékony kiértékelés  |                                                                     |
+| 2018. szeptember 24.  | Bézier-görbe                                      |                                                                     |
+| 2018. október 01.     | Cardinal Spline                                   |                                                                     |
+| 2018. október 08.     | B-Spline                                          | 1. HF                                                               |
+| 2018. október 15.     | NURBS                                             | 2. HF                                                               |
+| 2018. november 05.    | Bézier-felület, NURBS-felület                     | 3. HF                                                               |
+| 2018. november 12.    | Subdivision görbék                                | 4. HF                                                               |
+| 2018. november 19.    | **1. védés** (1-2-3. HF)                          | Utolsó effektív commit: **2018. november 18. 08:00**                |
+| 2018. november 26.    | A Half Edge adatszerkezet                         |                                                                     |
+| 2018. december 03.    | Primál és duál subdivision felületek              | 5. HF                                                               |
+| 2018. december 10.    | Felületek, görbék és GUI                          |                                                                     |
+| 2018. december 17.    | **2. védés/1. pótvédés** (4-5. HF)                | Vizsgaidőszak, Utolsó effektív commit: **2019. december 16. 08:00** |
+| 2019. január          | **2. pótvédés**                                   | Vizsgaidőszak                                                       |
+
+### Gyakorlati tematika a keddi csoport számára
+
+
+| Időpont               | A gyakorlat témája                                | Megjegyzés                                                          |
+|-----------------------|---------------------------------------------------|---------------------------------------------------------------------|
+| 2018. szeptember 18.  | Görbék megadási módja, Lagrange-interpoláció.     |                                                                     |
+| 2018. szeptember 25.  | Hermite-ív, Hermite Spline, Hatékony kiértékelés  |                                                                     |
+| 2018. október 02.     | Bézier-görbe                                      |                                                                     |
+| 2018. október 09.     | Cardinal Spline                                   |                                                                     |
+| 2018. október 16.     | B-Spline, NURBS                                   | 1-2. HF                                                             |
+| 2018. november 06.    | Bézier-felület, NURBS-felület                     | 3. HF                                                               |
+| 2018. november 13.    | Subdivision görbék                                | 4. HF                                                               |
+| 2018. november 20.    | **1. védés** (1-2-3. HF)                          | Utolsó effektív commit: **2018. november 19. 08:00**                |
+| 2018. november 27.    | A Half Edge adatszerkezet                         |                                                                     |
+| 2018. december 04.    | Primál és duál subdivision felületek              | 5. HF                                                               |
+| 2018. december 11.    | Felületek, görbék és GUI                          |                                                                     |
+| 2018. december 17.    | **2. védés/1. pótvédés** (4-5. HF)                | Vizsgaidőszak, Utolsó effektív commit: **2019. december 16. 08:00** |
+| 2019. január          | **2. pótvédés**                                   | Vizsgaidőszak                                                       |
 
 ### Számonkérések
   
@@ -63,18 +83,12 @@ Programvédésen **csak** olyan forráskód mutatható be, melyet a hallgató fe
 
 Ebben az évben is rendelkezik a tárgy Piazza csoporttal, ahol akár névvel, akár anonim módon feltehetők a tárggyal kapcsolatos kérdések:
 
-  * [Piazza Class](https://piazza.com/class/jd0lyizj4eutc)
+  * [Piazza Class](piazza.com/unideb.hu/fall2018/indv602k5/home)
 
 Az egyetlen - de rendkívül fontos - kritérium, hogy a kérdések **nem** tartalmazhatnak forráskódot. Képernyőképek azonban szabadon csatolhatóak.
 
-### Gyakorlati anyagok és házi feladat kiírások
-
-A gyakorlatokon használt notebookok és a házi feladat kiírások elérhetőek a következő címen:
-
-  * [Course Material](http://nbviewer.jupyter.org/github/kompgraf/course-material/tree/master/notebooks/)
-
 ### IDE, debugger
 
-A házi feladatok fejlesztése tetszőleges eszközzel történhet. Azonban a kényelmes és gyors fejlesztést elősegítendő, ajánlott valamilyen IDE használata. Windowson kiváló választás a [Visual Studio Community](https://www.visualstudio.com/vs/community/), Linuxon (de akár Windowson is) pedig a [CLion](https://www.jetbrains.com/clion/). Utóbbihoz rendelkezésre áll hallgatói licensz, mely magában foglalja a többi JetBrains terméket is.
+A házi feladatok fejlesztése tetszőleges eszközzel történhet. Azonban a kényelmes és gyors fejlesztést elősegítendő, ajánlott valamilyen IDE használata. Windowson kiváló választás a [Visual Studio Community](https://www.visualstudio.com/vs/community/), Linuxon (de akár Windowson is) pedig a [CLion](https://www.jetbrains.com/clion/). Utóbbihoz rendelkezésre áll hallgatói licenc, mely magában foglalja a többi JetBrains terméket is.
 
 A feladatok implementálása során sokszor találhatjátok magatokat olyan helyzetben, hogy bár úgy gondoljátok, helyesen programoztátok le a feladatot, a látvány mégsem kielégítő. Ilyen esetben remekül használhatóak az IDE-k által biztosított debuggolási lehetőségek, azaz a breakpointok, feltételes breakpointok, watchok és további eszközök. Használjátok ezeket bátran, sok időt és fáradságot takaríthattok meg velük!
