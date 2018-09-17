@@ -83,7 +83,7 @@ Programvédésen **csak** olyan forráskód mutatható be, melyet a hallgató fe
 
 Ebben az évben is rendelkezik a tárgy Piazza csoporttal, ahol akár névvel, akár anonim módon feltehetők a tárggyal kapcsolatos kérdések:
 
-  * [Piazza Class](piazza.com/unideb.hu/fall2018/indv602k5/home)
+  * [Piazza Class](https://piazza.com/class/jm629uyuqve4bf)
 
 Az egyetlen - de rendkívül fontos - kritérium, hogy a kérdések **nem** tartalmazhatnak forráskódot. Képernyőképek azonban szabadon csatolhatóak.
 
