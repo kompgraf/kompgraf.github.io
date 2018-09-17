@@ -35,7 +35,7 @@ Amennyiben olyan felvetéssel, problémával rendelkeztek, mely a tárgyat felve
 | 2018. november 26.    | A Half Edge adatszerkezet                         |                                                                     |
 | 2018. december 03.    | Primál és duál subdivision felületek              | 5. HF                                                               |
 | 2018. december 10.    | Felületek, görbék és GUI                          |                                                                     |
-| 2018. december 17.    | **2. védés/1. pótvédés** (4-5. HF)                | Vizsgaidőszak, Utolsó effektív commit: **2019. december 16. 08:00** |
+| 2018. december 17.    | **2. védés/1. pótvédés** (4-5. HF)                | Vizsgaidőszak, Utolsó effektív commit: **2018. december 16. 08:00** |
 | 2019. január          | **2. pótvédés**                                   | Vizsgaidőszak                                                       |
 
 ### Gyakorlati tematika a keddi csoport számára
@@ -54,7 +54,7 @@ Amennyiben olyan felvetéssel, problémával rendelkeztek, mely a tárgyat felve
 | 2018. november 27.    | A Half Edge adatszerkezet                         |                                                                     |
 | 2018. december 04.    | Primál és duál subdivision felületek              | 5. HF                                                               |
 | 2018. december 11.    | Felületek, görbék és GUI                          |                                                                     |
-| 2018. december 17.    | **2. védés/1. pótvédés** (4-5. HF)                | Vizsgaidőszak, Utolsó effektív commit: **2019. december 16. 08:00** |
+| 2018. december 17.    | **2. védés/1. pótvédés** (4-5. HF)                | Vizsgaidőszak, Utolsó effektív commit: **2018. december 16. 08:00** |
 | 2019. január          | **2. pótvédés**                                   | Vizsgaidőszak                                                       |
 
 ### Számonkérések
